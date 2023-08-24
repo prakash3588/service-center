@@ -1,0 +1,212 @@
+/* HEADER  styling */
+
+.service a {
+    text-decoration: none;
+}
+
+.header {
+    margin: 30px 0px 10px 0px;
+}
+
+.active a {
+    font-size: 12px;
+    cursor: pointer !important;
+    text-decoration: none;
+}
+
+.active a:hover {
+    text-decoration: underline;
+}
+
+.active span {
+    color: #797979;
+}
+
+/* Carousel Styling */
+
+.carousel-caption h5 {
+    font-size: 56px;
+    line-height: 1em;
+    font-weight: 400;
+    margin-bottom: 0.45em;
+    color: #fff;
+    text-transform: none;
+}
+
+
+/*-------------------------------------------------ABOUT SECTION STYLING-------------------------------------------*/
+.about{
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+    background: #f4f3f3;
+}
+
+.titleText{
+    color: #111;
+    font-size: 2em;
+    font-weight: 300;
+}
+.titleText span{
+    color: #8BC34A;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+.row .imgBx img{
+    width: 100%;
+    height: auto;
+    max-height: 500px;
+    max-width: 500px;
+}
+
+/* SERVICES STYLING */
+
+.container .service {
+    color: #282828 !important;
+    font-weight: 700 !important;
+    font-size: 35px !important;
+    line-height: 130px;
+
+}
+
+
+
+.col-md-6 img {
+    width: 100%;
+}
+
+.replace {
+    margin: 10px;
+}
+
+.img {
+    margin: 10px 0px;
+}
+
+.btn {
+    padding: 0px;
+    margin: 20px 0px;
+}
+
+.btn a {
+    text-decoration: none;
+    padding: 22px 21px 22px !important;
+    line-height: 0;
+    display: inline-block;
+    width: auto;
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 600;
+    cursor: pointer !important;
+}
+
+.bg-color a {
+    background: #8BC34A;
+    color: #ffffff;
+}
+
+
+/* section styling */
+
+#section{
+background: #eceaea;
+}
+
+ .heading h2{
+    color: #000;
+    font-size: 35px;
+    font-weight: 700 !important;  
+}
+
+.heading{
+        line-height: 25px;
+        letter-spacing: 0.03em;
+}
+
+.info{
+    margin: 25px 0px;
+}
+
+.info h3{
+    margin: 20px 0px;
+    font-size: 15px !important;
+    line-height: 24px;
+     font-weight: 600;
+}
+
+.info i{
+    font-size: 35px !important;
+    color: #8BC34A;
+}
+
+.info .address{
+        font-size: 14px !important;
+        line-height: 24px;
+        font-family: 'Open Sans', sans-serif;
+        color: #707070;  
+          letter-spacing: 0.01em;
+}
+
+
+.info .number a{
+        font-size: 15px !important;
+        line-height: 24px;
+        color: #4e4e4e;
+        cursor: pointer !important;
+        text-decoration: none;    
+}
+
+.info .email a{
+    font-size: 15px !important;
+        line-height: 24px;
+        color: #4e4e4e;
+        cursor: pointer !important;
+        text-decoration: none;
+}
+
+.info .text-center div{
+    margin: 10px 0px;
+}
+
+
+/* Footer styling */
+
+.footer .list{
+display: flex;
+justify-content: center;
+justify-content: space-evenly;
+
+}
+
+.footer ul li{
+  list-style: none;
+  margin: 30px 0 20px 0 ;
+  font: bold;
+    
+}
+
+.footer ul li a{
+    text-decoration: none;
+    color: #4e4e4e;
+    cursor: pointer !important;
+    outline: 0;
+}
+
+.link p{
+    font-size: 13px;
+    color: #707070;
+    line-height: 22px;
+    letter-spacing: 0.02em; 
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+.link p a{
+    text-decoration: none;
+        color: #4e4e4e;
+        cursor: pointer !important;
+        outline: 0;
+        
+}
